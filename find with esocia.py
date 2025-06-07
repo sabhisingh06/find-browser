@@ -1,4 +1,4 @@
-# import requests
+import requests
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
@@ -6,8 +6,8 @@ from PyQt5.QtWebEngineWidgets import *
 from PyQt5.QtPrintSupport import *
 import os
 import sys
-# url = "http://www.sabhiwaraich.c1.biz"
-# timeout = 5
+url = "http://www.google.com"
+timeout = 5
 
 def main():
 
